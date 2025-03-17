@@ -1,0 +1,142 @@
+{
+    "automappingRulesFile": "",
+    "commands": [
+    ],
+    "compatibilityVersion": 1100,
+    "extensionsPath": "extensions",
+    "folders": [
+        "."
+    ],
+    "properties": [
+    ],
+    "propertyTypes": [
+        {
+            "color": "#ffff00ff",
+            "drawFill": true,
+            "id": 6,
+            "members": [
+            ],
+            "name": "Chest",
+            "type": "class",
+            "useAs": [
+                "property",
+                "object",
+                "project"
+            ]
+        },
+        {
+            "color": "#ffff55ff",
+            "drawFill": true,
+            "id": 8,
+            "members": [
+            ],
+            "name": "ChestSpawn",
+            "type": "class",
+            "useAs": [
+                "property",
+                "object",
+                "project"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Direction",
+            "storageType": "string",
+            "type": "enum",
+            "values": [
+                "n",
+                "s",
+                "e",
+                "w",
+                "c"
+            ],
+            "valuesAsFlags": false
+        },
+        {
+            "color": "#ffff0000",
+            "drawFill": true,
+            "id": 3,
+            "members": [
+            ],
+            "name": "EnemySpawn",
+            "type": "class",
+            "useAs": [
+                "property",
+                "object",
+                "project"
+            ]
+        },
+        {
+            "color": "#ffa40f0f",
+            "drawFill": true,
+            "id": 2,
+            "members": [
+            ],
+            "name": "Fire",
+            "type": "class",
+            "useAs": [
+                "property",
+                "object"
+            ]
+        },
+        {
+            "color": "#ff0055ff",
+            "drawFill": true,
+            "id": 7,
+            "members": [
+            ],
+            "name": "Hitbox",
+            "type": "class",
+            "useAs": [
+                "property",
+                "map",
+                "layer",
+                "object",
+                "tile",
+                "tileset",
+                "wangcolor",
+                "wangset",
+                "project"
+            ]
+        },
+        {
+            "color": "#ffffff00",
+            "drawFill": true,
+            "id": 5,
+            "members": [
+                {
+                    "name": "Dir",
+                    "propertyType": "Direction",
+                    "type": "string",
+                    "value": "n"
+                }
+            ],
+            "name": "PlayerSpawn",
+            "type": "class",
+            "useAs": [
+                "property",
+                "object",
+                "project"
+            ]
+        },
+        {
+            "color": "#ff5ba439",
+            "drawFill": true,
+            "id": 1,
+            "members": [
+                {
+                    "name": "Dir",
+                    "propertyType": "Direction",
+                    "type": "string",
+                    "value": "n"
+                }
+            ],
+            "name": "Trigger",
+            "type": "class",
+            "useAs": [
+                "property",
+                "object"
+            ]
+        }
+    ]
+}

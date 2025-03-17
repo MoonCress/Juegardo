@@ -1,0 +1,385 @@
+{
+    "activeFile": "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x1.tmx": {
+            "scale": 1.004736328125,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 495.15478446809556,
+                "y": 235.38513874714488
+            }
+        },
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x1.tmx#Base": {
+            "scaleInDock": 1
+        },
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x1.tmx#Flames": {
+            "scaleInDock": 1
+        },
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x1.tmx#Objects": {
+            "scaleInDock": 1
+        },
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x2.tmx": {
+            "expandedObjectLayers": [
+                7,
+                9
+            ],
+            "scale": 1.004736328125,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 491.1736404723722,
+                "y": 143.81882684550712
+            }
+        },
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x2.tmx#Base": {
+            "scaleInDock": 1
+        },
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x2.tmx#Flames": {
+            "scaleInDock": 1
+        },
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x2.tmx#Objects": {
+            "scaleInDock": 1
+        },
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x3.tmx": {
+            "scale": 1.004736328125,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 652.409972299169,
+                "y": 235.38513874714488
+            }
+        },
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x3.tmx#Base": {
+            "scaleInDock": 1
+        },
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x3.tmx#Flames": {
+            "scaleInDock": 1
+        },
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x3.tmx#Objects": {
+            "scaleInDock": 1
+        },
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x4.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 1.5,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 646.3333333333333,
+                "y": 159.66666666666669
+            }
+        },
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x4.tmx#Base": {
+            "scaleInDock": 1
+        },
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x4.tmx#Flames": {
+            "scaleInDock": 1
+        },
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x4.tmx#Objects": {
+            "scaleInDock": 1
+        },
+        "Base.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Flames2.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Objects.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "lb_e1.json": {
+            "scale": 1.01494140625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 503.47734051765616,
+                "y": 247.79755604733958
+            }
+        },
+        "lb_e1.json#Base": {
+            "scaleInDock": 1
+        },
+        "lb_e1.json#Flames": {
+            "scaleInDock": 1
+        },
+        "lb_e1.json#Objects": {
+            "scaleInDock": 1
+        },
+        "lb_e1.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 2,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 525.75,
+                "y": 243.25
+            }
+        },
+        "lb_r1.tmx": {
+            "expandedObjectLayers": [
+                13
+            ],
+            "scale": 2,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 510.75,
+                "y": 183.75
+            }
+        },
+        "lb_r1.tmx#Flames": {
+            "scaleInDock": 1
+        },
+        "lb_r10.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 1.5,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 510.99999999999994,
+                "y": 254.99999999999997
+            }
+        },
+        "lb_r11.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 2,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 511.25,
+                "y": 255.25
+            }
+        },
+        "lb_r12.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 2,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 511.25,
+                "y": 255.25
+            }
+        },
+        "lb_r13.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 1,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 842.5,
+                "y": 390.5
+            }
+        },
+        "lb_r14.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 1.5,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 510.99999999999994,
+                "y": 254.99999999999997
+            }
+        },
+        "lb_r15.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 1.5,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 510.99999999999994,
+                "y": 254.99999999999997
+            }
+        },
+        "lb_r16.json": {
+            "scale": 1.004736328125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 512.0746464499199,
+                "y": 256.28614472469263
+            }
+        },
+        "lb_r16.json#Base": {
+            "scaleInDock": 1
+        },
+        "lb_r16.json#Flames": {
+            "scaleInDock": 1
+        },
+        "lb_r16.json#Objects": {
+            "scaleInDock": 1
+        },
+        "lb_r16.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 511.25,
+                "y": 255.25
+            }
+        },
+        "lb_r2.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 2,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 511.25,
+                "y": 255.25
+            }
+        },
+        "lb_r3.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 2,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 511.25,
+                "y": 255.25
+            }
+        },
+        "lb_r4.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 2,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 511.25,
+                "y": 255.25
+            }
+        },
+        "lb_r5.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 2,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 511.25,
+                "y": 255.25
+            }
+        },
+        "lb_r6.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 1.5,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 510.99999999999994,
+                "y": 254.99999999999997
+            }
+        },
+        "lb_r7.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 3,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 511.49999999999994,
+                "y": 255.49999999999997
+            }
+        },
+        "lb_r8.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 1.5,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 527,
+                "y": 238.99999999999997
+            }
+        },
+        "lb_r9.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 2,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 511.25,
+                "y": 255.25
+            }
+        },
+        "lb_x1.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 1.004736328125,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 510.08407445205825,
+                "y": 256.28614472469263
+            }
+        },
+        "lb_x2.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 1.004736328125,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 510.08407445205825,
+                "y": 256.28614472469263
+            }
+        },
+        "lb_x3.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 1.004736328125,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 510.08407445205825,
+                "y": 256.28614472469263
+            }
+        },
+        "lb_x4.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 1.004736328125,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 511.07936045098904,
+                "y": 255.78850172522723
+            }
+        }
+    },
+    "last.exportedFilePath": "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles",
+    "map.lastUsedExportFilter": "All Files (*)",
+    "openFiles": [
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x1.tmx",
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x2.tmx"
+    ],
+    "project": "Library.tiled-project",
+    "recentFiles": [
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x2.tmx",
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x1.tmx",
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x4.tmx",
+        "/home/pablo/Documents/University/Spell_Keeper/assets/gardens/tiles/gr_x3.tmx",
+        "lb_r16.tmx",
+        "lb_r15.tmx",
+        "lb_r14.tmx",
+        "lb_r13.tmx",
+        "lb_r12.tmx",
+        "lb_r11.tmx",
+        "lb_r10.tmx",
+        "lb_r1.tmx"
+    ]
+}

@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'pixelFont';
+  src: url('../assets/fonts/VT323Regular.ttf');
+}
+
+div { 
+  min-width: 1500px; /* Set a minimum width for the div */ 
+} 
+
+body {
+  background-color: #d7ace4;
+  background-size: cover;
+  cursor: url('../assets/cursor/new_pointer.png'), auto;
+}
+
+.main_title{
+  line-height: 1px;
+  width: 100%;
+  height: 150;
+  text-align: center;
+  color: #70489c;
+  text-shadow: 5px 5px 0px #370072;
+  font-family: 'pixelFont';
+  font-size: 100px;
+  font-weight: bold; /* Add bold style */
+}
+
+/*Parte del juego*/
+#juego {
+  margin-top: 150px;
+}
+
+.subtitle{
+
+  line-height:1px;
+  width: 100%;
+  height: 100;
+  text-align: center;
+  color: #70489c;
+  text-shadow: 2px 2px 0px #370072;
+  font-family: 'pixelFont';
+  font-size: 75px;
+  font-weight: bold; /* Add bold style */
+}
+
+.subtitle span{
+  line-height:1px;
+  font-size: 40px;
+}
+
+.creators{
+  line-height:1px;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  color: #70489c;
+  text-shadow: 2px 2px 0px #370072;
+  font-family: 'pixelFont';
+  font-size: 75px;
+  font-weight: bold; /* Add bold style */
+}
+
+.creators span{
+  font-size: 40px;
+}

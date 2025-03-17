@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="32" height="16" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="26">
+ <editorsettings>
+  <export target="HUD.json" format="json"/>
+ </editorsettings>
+ <objectgroup id="2" name="HUD">
+  <object id="9" name="LifeBar" type="LifeBar" x="32" y="32" width="320" height="32"/>
+  <object id="10" name="Manabar" type="ManaBar" x="32" y="96" width="192" height="32"/>
+  <object id="12" name="Keys" type="LLaves" x="256" y="96" width="64" height="32"/>
+  <object id="13" name="Shield" type="Escudo" x="352" y="96" width="32" height="32"/>
+  <object id="15" name="ArmaEquipada" type="ArmaEquipada" x="896" y="384" width="96" height="96"/>
+  <object id="25" name="BossBar" type="BossBar" x="32" y="424" width="960" height="64"/>
+  <object id="26" name="FullScreen" x="991" y="32" width="32" height="32"/>
+ </objectgroup>
+</map>
