@@ -29,7 +29,7 @@ export default class BossChest extends Phaser.GameObjects.Sprite {
         this.body.setImmovable(true)
         this.body.setSize(this.width * 2, this.height * 2, true);
 
-        this.jug = player
+        this.jug = player;
 
         this.hb = new CollisionHitbox(scene, x, y, width, height)
         // Variable para rastrear la superposición
